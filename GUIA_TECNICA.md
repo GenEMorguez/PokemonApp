@@ -209,21 +209,4 @@ flutter run
 
 ---
 
-## 10. Checklist de Entregables
-
-- [x] Código fuente en GitHub (ZIP o repositorio público)
-- [x] Video demostrativo mostrando todas las pantallas
-- [x] Navegación funcional entre pantallas (`go_router`)
-- [x] Estado global con Riverpod (`StateNotifier`)
-- [x] Consumo de API REST (`PokéAPI` con `Dio`)
-- [x] Búsqueda por palabra clave y por tipo
-- [x] Paginación infinita (Lazy Loading)
-- [x] Persistencia de tema con `SharedPreferences`
-- [x] Persistencia de favoritos con `SharedPreferences`
-- [x] Offline mode con `connectivity_plus`
-- [x] Clean Architecture (Data / Domain / Presentation)
-- [x] Manejo de excepciones
-
----
-
 *Datos proporcionados por PokéAPI — https://pokeapi.co (API pública y gratuita)*
